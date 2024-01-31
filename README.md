@@ -9,6 +9,7 @@ To design a Full Adder and Full Subtractor circuit and verify its truth table in
 **Equipments Required:**
 
 Hardware – PCs, Cyclone II , USB flasher
+
 Software – Quartus prime
 
 **Full Adder and Full Subtractor**
@@ -35,6 +36,8 @@ Diff = A ⊕ B ⊕ Bin
 
 Borrow out = A'Bin + A'B + BBin
 
+**Truthtable**
+
 **Procedure**
 
 Write the detailed procedure here
@@ -43,13 +46,10 @@ Write the detailed procedure here
 
 /* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
 */
-**Output:**
 
-**Truthtable**
+**RTL Schematic**
 
-**RTL realization**
-
-**Timing diagram**
+**Output Timing Waveform**
 
 **Result:**
 
